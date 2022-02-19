@@ -1,0 +1,208 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/wvfrPpZL/sabermas.png" group-title="ANIMAL", SABER MÁS
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+#EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="ANIMAL", LOVE NATURE 
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CUL| History FHD (co)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="History",History COL FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94611
+#EXTINF:-1 tvg-id="" tvg-name="CUL| HISTORY HD  (co)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="History",History COL HD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94613
+#EXTINF:-1 tvg-id="" tvg-name="CUL| H2 (lt)" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png" group-title="History",History 2 (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94607
+#EXTINF:-1 tvg-id="" tvg-name="CUL| H2 SD LAT. (ec)" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png" group-title="History",History 2 SD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94608
+#EXTINF:-1 tvg-id="" tvg-name="CUL| ANIMAL PLANET (CO) (lt)" tvg-logo="https://1.bp.blogspot.com/-1OK3OM29PdY/XaukfgHEdHI/AAAAAAAAAgM/qIWGlCukzS4G5gxieXqIi3468U9NM56DQCLcBGAsYHQ/s200/4.png" group-title="ANIMAL",ANIMAL PLANET COL (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94580
+#EXTINF:-1 tvg-id="" tvg-name="CUL| ANIMAL PLANET (MX) (ec)" tvg-logo="https://1.bp.blogspot.com/-1OK3OM29PdY/XaukfgHEdHI/AAAAAAAAAgM/qIWGlCukzS4G5gxieXqIi3468U9NM56DQCLcBGAsYHQ/s200/4.png" group-title="ANIMAL",ANIMAL PLANET MX (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94581
+#EXTINF:-1 tvg-id="" tvg-name="CUL| Nat Geo Wild FHD" tvg-logo="https://1.bp.blogspot.com/-FhNEkhNUM58/Xaukf7PCtkI/AAAAAAAAAgQ/azD1CxOYTugM3KsRnyICXyCVweXcKp1_gCLcBGAsYHQ/s200/5.png" group-title="ANIMAL",NAT GEO WILD FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94621
+#EXTINF:-1 tvg-id="" tvg-name="CUL| DISCOVERY CHANNEL FHD2" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="DISCOVERY",DISCOVERY CHANNEL FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94585
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + FHD" tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png" group-title="Win",WIN SPORTS + FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94009
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS FHD" tvg-logo="https://i.ibb.co/M1BBy5N/win.png" group-title="Win",WIN SPORTS FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/94013
+#EXTINF:-1 tvg-id="" tvg-name="DEP || ESPN chile FHD" tvg-logo="https://i.ibb.co/9gGktXN/ESPNCL.jpg" group-title="ESPN",ESPN CHI FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93936
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD - CL ©" tvg-logo="https://i.ibb.co/C6pKX6t/ESPN3.jpg" group-title="ESPN",ESPN 3 CL © HD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93947
+#EXTINF:-1 tvg-id="" tvg-name="DEP || ESPN 2 chile HD" tvg-logo="https://i.ibb.co/9gGktXN/ESPNCL.jpg" group-title="ESPN",ESPN 2 PER HD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93938
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD - MX" tvg-logo="https://i.ibb.co/rZdmvFK/ESPN.jpg" group-title="ESPN",ESPN MX HD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93956
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD - MX" tvg-logo="https://i.ibb.co/1Zshdfz/ESPN2.jpg" group-title="ESPN",ESPN 2 MX FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93940
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD - SUR" tvg-logo="https://i.ibb.co/rZdmvFK/ESPN.jpg" group-title="ESPN",ESPN SUR HD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93957
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD - SUR" tvg-logo="https://i.ibb.co/1Zshdfz/ESPN2.jpg" group-title="ESPN",ESPN 2 SUR FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93941
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD - SUR" tvg-logo="https://i.ibb.co/C6pKX6t/ESPN3.jpg" group-title="ESPN",ESPN 3 SUR HD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93948
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD - SUR" tvg-logo="https://i.ibb.co/p4s4yHG/ESPNEXTRA.jpg" group-title="ESPN",ESPN EXT SUR HD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93952
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD - MX" tvg-logo="https://i.ibb.co/C6pKX6t/ESPN3.jpg" group-title="ESPN",ESPN 3 USA FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93946
+#EXTINF:-1 tvg-id="" tvg-name="España - M. Liga de Campeones SD" tvg-logo="https://i.ibb.co/wL8mFfD/LIGADECAMPEONES.jpg" group-title="LIGAS EUROPA",MOVISTAR LC SD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93935
+#EXTINF:-1 tvg-id="" tvg-name="España - beIN Sports ñ FHD" tvg-logo="https://i.ibb.co/Q6j9QjM/beinsports.jpg" group-title="LIGAS EUROPA",BEIN Ñ ESP SD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93922
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Gol TV (Solo Eventos)." tvg-logo="https://i.ibb.co/HqsrXCg/GOLTVECU.jpg" group-title="LIGAS SUR.AM",GOL TV HD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93916
+#EXTINF:-1 tvg-id="" tvg-name="COL: CARACOL FHD" tvg-logo="https://www.portafolio.co/files/article_multimedia/uploads/2017/08/24/599edeaa011ba.jpeg" group-title="NACIONALES",CARACOL FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93843
+#EXTINF:-1 tvg-id="" tvg-name="COL: CARACOL INTERNACIONAL *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png" group-title="NACIONALES",CARACOL INTERNACIONAL * (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93844
+#EXTINF:-1 tvg-id="" tvg-name="COL: CANAL UNO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgfguwWhzMyPQw6rkStZQjkViCL5P86K9OUypofCc_hIZ71z0&s" group-title="NACIONALES",CANAL UNO (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93839
+#EXTINF:-1 tvg-id="" tvg-name="COL: RCN HD" tvg-logo="https://www.comunidad-ola.com/portal/images/Logosempresas/rcn-tv-logo.jpg" group-title="NACIONALES",RCN HD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93855
+#EXTINF:-1 tvg-id="" tvg-name="COL: RCN INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/RCNNuestraTele2018.png" group-title="NACIONALES",RCN INTERNACIONAL (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93856
+#EXTINF:-1 tvg-id="" tvg-name="COL: RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="NACIONALES",RCN NUESTRA TELE (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93858
+#EXTINF:-1 tvg-id="" tvg-name="COL: CABLENOTICIA" tvg-logo="https://papafranciscoencolombia.co/sites/default/files/cable_noticias2.png" group-title="NACIONALES",CABLENOTICIAS (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93836
+#EXTINF:-1 tvg-id="" tvg-name="COL: NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="NACIONALES",NTN 24 (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/93848
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion" tvg-logo="https://1.bp.blogspot.com/-4933wgQ-TJI/XcsQ4y5ZBNI/AAAAAAAAA04/RDkBebtGXko4XekOmijiMameKGcjVDn3gCLcBGAsYHQ/s200/documentales.png" group-title="PELICULAS",Cine Accion LA (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/95654
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion HD" tvg-logo="https://1.bp.blogspot.com/-4933wgQ-TJI/XcsQ4y5ZBNI/AAAAAAAAA04/RDkBebtGXko4XekOmijiMameKGcjVDn3gCLcBGAsYHQ/s200/documentales.png" group-title="PELICULAS",Cine Accion HD LA (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/95655
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Marvel" tvg-logo="https://1.bp.blogspot.com/-4933wgQ-TJI/XcsQ4y5ZBNI/AAAAAAAAA04/RDkBebtGXko4XekOmijiMameKGcjVDn3gCLcBGAsYHQ/s200/documentales.png" group-title="PELICULAS",Cine Marvel LA (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/95667
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Romance HD" tvg-logo="https://1.bp.blogspot.com/-4933wgQ-TJI/XcsQ4y5ZBNI/AAAAAAAAA04/RDkBebtGXko4XekOmijiMameKGcjVDn3gCLcBGAsYHQ/s200/documentales.png" group-title="PELICULAS",Cine Romance HD LA (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/95669
+#EXTINF:-1 tvg-id="" tvg-name="LA..Cine Ficcion/Fantasia HD" tvg-logo="https://1.bp.blogspot.com/-4933wgQ-TJI/XcsQ4y5ZBNI/AAAAAAAAA04/RDkBebtGXko4XekOmijiMameKGcjVDn3gCLcBGAsYHQ/s200/documentales.png" group-title="PELICULAS",Cine Ficcion/Fantasia HD LA (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/95661
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Estrenos FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1280px-Movistar_Estrenos.svg.png" group-title="PELICULAS",Movistar Estrenos FHD (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/95748
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Cine Ñ" tvg-logo="https://1.bp.blogspot.com/-QXTGVw7rOlg/XxPWBEJC8II/AAAAAAAAAfs/_CIYdPMhiLYWzoVFAJshKZ-48tpFKg6eACLcBGAsYHQ/w200-h200/Movistar%2BCine.png" group-title="PELICULAS",Movistar Cine Ñ (DT)
+http://daletvplay.xyz:8080/vicsalas/iZgTUEt2z6/95416
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="History",History 2 BRA HD (XC)
+http://xcui.vitvabc.xyz:8880/287994016284/287994016284/16733
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="DISCOVERY",DISCOVERY CHANNEL BRA HD (XC)
+http://xcui.vitvabc.xyz:8880/287994016284/287994016284/16705
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="DISCOVERY",DISCOVERY WORLD BRA HD (XC)
+http://xcui.vitvabc.xyz:8880/287994016284/287994016284/16712
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f86427073efd142c6d56d817ddbb556e.png" group-title="ESPN",ESPN BRA HD (XC)
+http://xcui.vitvabc.xyz:8880/287994016284/287994016284/16717
+#EXTINF:-1 tvg-id="Example" tvg-name="Fox Sports 1 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/96e8f1dba8c6dfcf1379418173569f03.png" group-title="LIGAS SUR.AM", FOX SPORTS 1 BRA HD (XC)
+http://xcui.vitvabc.xyz:8880/287994016284/287994016284/16725
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="LIGAS SUR.AM",SporTV BRA HD (XC)
+http://xcui.vitvabc.xyz:8880/287994016284/287994016284/16753
+
+
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORT  COLOMBIA" tvg-logo="https://dl.dropboxusercontent.com/s/u8me3amghaladd2/WINSPORTS.jpg?dl=0" group-title="Win",WIN SPORTS (62)
+http://62.210.152.185:38953/Patricia/DeFa4XeDMR/15195
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + COLOMBIA " tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="Win",WIN SPORTS + (62)
+http://62.210.152.185:38953/Patricia/DeFa4XeDMR/78640
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:CNN EN ESPANIOL" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/62.png" group-title="NACIONALES",CNN EN ESPANIOL SD (62)
+http://62.210.152.185:38953/Patricia/DeFa4XeDMR/74453
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:STAR CHANNEL" tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg" group-title="SERIES",STAR CHANNEL HD (62)
+http://62.210.152.185:38953/Patricia/DeFa4XeDMR/55857
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:FX" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/353.png" group-title="SERIES",FX HD (62)
+http://62.210.152.185:38953/Patricia/DeFa4XeDMR/55841
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:H2" tvg-logo="https://dl.dropboxusercontent.com/s/ekeml24xvoh5qu2/H2.jpg?" group-title="History",History 2 FHD HD (62)
+http://62.210.152.185:38953/Patricia/DeFa4XeDMR/55835
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS" tvg-logo="http://mylatinotv.com:8080/images/mexico/win.png" group-title="Win",WIN SPORTS (BR)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740419
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS+" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="Win",WIN SPORTS + (BR)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740420
+#EXTINF:-1 tvg-id="" tvg-name="CO | TNT" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/ed3a52986cb531351d4bc984a0795c61.jpg" group-title="PELICULAS",TNT (BR)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740415
+#EXTINF:-1 tvg-id="" tvg-name="CO | STUDIO UNIVERSAL" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/5e8b791086401ce466de03ef4ca718c1.jpg" group-title="PELICULAS",STUDIO UNIVERSAL (BR)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740408
+#EXTINF:-1 tvg-id="" tvg-name="CO | CINEMAX" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1563464671525-Imagen.png" group-title="PELICULAS",CINEMAX (BR)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740350
+#EXTINF:-1 tvg-id="" tvg-name="CO | CINECANAL" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/d416a6095b820ad1a9e7d365b1fdc462.jpg" group-title="PELICULAS",CINECANAL (BR)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740348
+#EXTINF:-1 tvg-id="" tvg-name="CO | CINEMA DINAMITA" tvg-logo="https://i.imgur.com/Iopzj19.jpg" group-title="PELICULAS",CINEMA DINAMITA (BR)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740349
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT SERIE A" tvg-logo="http://starsat123.com:8080/images/f4e6ce11da9a32c615699458eb8a3cfa.png" group-title="LIGAS EUROPA",SKY SPORT SERIE A IT (BR)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740210
+#EXTINF:-1 tvg-id="" tvg-name="IT:  Sky Sport Arena HD" tvg-logo="http://starsat123.com:8080/images/7d68a06f57b80b862c878d1ae6dae9b1.png" group-title="LIGAS EUROPA",Sky Sport Arena HD IT (BR)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740209
+#EXTINF:-1 tvg-id="RAISP" tvg-name="IT: RAI SPORT" tvg-logo="http://mirror.streamhubtv.me:8080/images/4d480a1084190769edc95c6e829ed0e5.png" group-title="LIGAS EUROPA",RAI SPORT IT (BR)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740205
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS" tvg-logo="http://mylatinotv.com:8080/images/mexico/win.png" group-title="Win",WIN SPORTS (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740419
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS+" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="Win",WIN SPORTS + (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740420
+#EXTINF:-1 tvg-id="" tvg-name="CO | TNT" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/ed3a52986cb531351d4bc984a0795c61.jpg" group-title="PELICULAS", TNT (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740415
+#EXTINF:-1 tvg-id="" tvg-name="CO | STUDIO UNIVERSAL" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/5e8b791086401ce466de03ef4ca718c1.jpg" group-title="PELICULAS", STUDIO UNIVERSAL (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740408
+#EXTINF:-1 tvg-id="" tvg-name="CO | HISTORY CHANNEL" tvg-logo="http://i.imgur.com/MlCSW.png" group-title="History",History (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740395
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX CLASSICS" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689000204-Imagen.png" group-title="FOX/STAR", FOX CLASSICS (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740375
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX ACTION" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689374818-Imagen.png" group-title="FOX/STAR", FOX ACTION (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740373
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX CINEMA" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/d3b386d89f2560ca6a5e0ffdabea415b.jpg" group-title="FOX/STAR", FOX CINEMA (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740374
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN" tvg-logo="" group-title="ESPN", ESPN (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740368
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN 2" tvg-logo="http://images.mi.tv/channels/ar_espn-2_m.png" group-title="ESPN", ESPN 2 (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740369
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN 3" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529362343903-Imagen.png" group-title="ESPN", ESPN 3 (BC)
+http://breakingcable.xyz:80/Zanzibar/Zanzibar/740370
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Latino: History en Espanol FHD" tvg-logo="" group-title="History",History  FHD (HD)
+http://hdhd.tk:80/user1/user1/22208
+#EXTINF:-1 tvg-id="" tvg-name="Latino: NatGeo Mundo" tvg-logo="" group-title="ANIMAL", NatGeo Mundo (HD)
+http://hdhd.tk:80/user1/user1/22241
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery en Espanol" tvg-logo="" group-title="DISCOVERY",DISCOVERY (HD)
+http://hdhd.tk:80/user1/user1/22240
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Familia" tvg-logo="" group-title="DISCOVERY",Discovery Familia (HD)
+http://hdhd.tk:80/user1/user1/22236
+#EXTINF:-1 tvg-id="" tvg-name="Latino: ESPN Deportes FHD" tvg-logo="" group-title="ESPN",ESPN  FHD (HD)
+http://hdhd.tk:80/user1/user1/22212
+#EXTINF:-1 tvg-id="" tvg-name="Latino: FOX Deportes FHD" tvg-logo="" group-title="LIGAS SUR.AM", FOX SPORTS FHD (HD)
+http://hdhd.tk:80/user1/user1/22213
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Cinemax MXL" tvg-logo="" group-title="PELICULAS",Cinemax MXL (HD)
+http://hdhd.tk:80/user1/user1/22231
+#EXTINF:-1 tvg-id="" tvg-name="Latino: HBO Latino FHD" tvg-logo="" group-title="HBO", HBO FHD (HD)
+http://hdhd.tk:80/user1/user1/22225
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Starz Encore Español FHD" tvg-logo="" group-title="FOX/STAR",Starz FHD (HD)
+http://hdhd.tk:80/user1/user1/22207
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Cine Sony" tvg-logo="" group-title="PELICULAS",Cine Sony (HD)
+http://hdhd.tk:80/user1/user1/22253
+
+
+#EXTINF:-1 group-title="EN PRUEBA",Win Sports + SD (LA) 14.FEB
+http://ladyentertainment.com:8000/Robert/Robert/33229
+#EXTINF:-1 group-title="EN PRUEBA",ESPN 3 MX (LA)
+http://ladyentertainment.com:8000/Robert/Robert/8532
+#EXTINF:-1 group-title="EN PRUEBA",HBO POP FHD (LA)
+http://ladyentertainment.com:8000/Robert/Robert/48375
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID FHD** (LAT)" tvg-logo="https://i.picasion.com/pic91/3800ab8a3d1a4f71a7c40e3004f2fee2.gif" group-title="EN PRUEBA",DISCOVERY ID FHD (TE) 14.FEB
+http://teamnextlevel.xyz:25461/mario123/123mario/197443
+TUDIO UNIVERSAL FHD" tvg-logo="http://teamnextlevel.xyz:25461/images/0ebb697a60717af3c135a8ebb1cf8730.png" group-title="EN PRUEBA", ESTUDIO UNIVERSAL FHD (TE)
+http://teamnextlevel.xyz:25461/mario123/123mario/197212
+#EXTINF:-1 tvg-id="" tvg-name="CINE| TNT SERIES FHD" tvg-logo="http://teamnextlevel.xyz:25461/images/403b78c4553960dbcd0f276e37bff367.png" group-title="EN PRUEBA", TNT SERIES FHD (TE)
+http://teamnextlevel.xyz:25461/mario123/123mario/197313
+
+
